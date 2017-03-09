@@ -1,3 +1,8 @@
+/*
+* Topic: hw1副程式
+* Date: 2017/03/03
+* Author: 105021115 陳邦天
+*/
 public class Staff {
       private String name,jobs,id;
       private float heigh,weigh;
