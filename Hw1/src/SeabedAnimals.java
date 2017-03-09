@@ -1,4 +1,8 @@
-
+/*
+* Topic: hw1副程式
+* Date: 2017/03/09
+* Author: 105021115 陳邦天
+*/
 public class SeabedAnimals {
       private String name,ecologicalGroup;
       private float height,weight;
