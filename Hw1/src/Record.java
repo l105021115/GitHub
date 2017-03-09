@@ -1,4 +1,8 @@
-
+/*
+* Topic: hw1主程式
+* Date: 2017/03/09
+* Author: 105021115 陳邦天
+*/
 public class Record {
 
 	public static void main(String[] args) {
